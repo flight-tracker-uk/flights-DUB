@@ -1,4 +1,4 @@
-"""Dublin Airport (DUB) destinations — April 2026."""
+"""Dublin Airport (DUB) destinations — May 2026."""
 
 DESTINATIONS = {
     "DUB": {
@@ -31,6 +31,9 @@ DESTINATIONS = {
             # Ireland
             "CFN": "Donegal",
             "KIR": "Kerry",
+            "NOC": "Knock",
+            "ORK": "Cork",
+            "SNN": "Shannon",
             # Spain (Mainland)
             "AGP": "Malaga",
             "ALC": "Alicante",
@@ -184,48 +187,8 @@ DESTINATIONS = {
             "PFO": "Paphos",
             # North Africa
             "AGA": "Agadir",
-            "CAI": "Cairo",
             "RAK": "Marrakesh",
             "RBA": "Rabat",
-            # Middle East
-            "AUH": "Abu Dhabi",
-            "DOH": "Doha",
-            "DXB": "Dubai",
-            # North America (USA)
-            "ATL": "Atlanta",
-            "BDL": "Hartford",
-            "BNA": "Nashville",
-            "BOS": "Boston",
-            "CLE": "Cleveland",
-            "CLT": "Charlotte",
-            "CUN": "Cancun",
-            "DEN": "Denver",
-            "DFW": "Dallas/Fort Worth",
-            "DTW": "Detroit",
-            "EWR": "Newark",
-            "IAD": "Washington Dulles",
-            "IND": "Indianapolis",
-            "JFK": "New York JFK",
-            "LAS": "Las Vegas",
-            "LAX": "Los Angeles",
-            "MCO": "Orlando",
-            "MIA": "Miami",
-            "MSP": "Minneapolis",
-            "ORD": "Chicago O'Hare",
-            "PHL": "Philadelphia",
-            "PIT": "Pittsburgh",
-            "RDU": "Raleigh-Durham",
-            "SEA": "Seattle",
-            "SFO": "San Francisco",
-            # North America (Canada)
-            "YHZ": "Halifax",
-            "YUL": "Montreal",
-            "YVR": "Vancouver",
-            "YYC": "Calgary",
-            "YYT": "St Johns",
-            "YYZ": "Toronto",
-            # Caribbean
-            "BGI": "Barbados",
             # Malta
             "MLA": "Malta",
         },

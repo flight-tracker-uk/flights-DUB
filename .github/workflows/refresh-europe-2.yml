@@ -25,72 +25,123 @@ jobs:
       max-parallel: 10
       matrix:
         destination:
+
           - FMM
+
           - FNC
+
           - FNI
+
           - FRA
+
           - FUE
+
           - GCI
+
           - GDN
+
           - GLA
+
           - GNB
+
           - GRO
+
           - GVA
+
           - HAM
+
           - HEL
+
           - HER
-          - IAD
+
           - IAS
+
           - IBZ
-          - IND
+
           - INN
+
           - INV
+
           - IOM
+
           - IST
+
           - JER
-          - JFK
+
           - JTR
+
           - KEF
+
           - KGS
+
           - KIR
+
           - KRK
+
           - KSC
+
           - KTT
+
           - KTW
+
           - KUN
-          - LAS
-          - LAX
+
           - LBA
+
           - LCJ
+
           - LCY
+
           - LDE
+
           - LGW
+
           - LHR
+
           - LIN
+
           - LIS
+
           - LPA
+
           - LPL
+
           - LRH
+
           - LTN
+
           - LUX
+
           - LUZ
+
           - LYS
+
           - MAD
+
           - MAH
+
           - MAN
-          - MCO
-          - MIA
+
           - MLA
+
           - MPL
+
           - MRS
-          - MSP
+
           - MUC
+
           - MXP
+
           - NAP
+
           - NCE
+
           - NCL
+
           - NQY
+
           - NTE
+
           - OLB
 
     steps:
